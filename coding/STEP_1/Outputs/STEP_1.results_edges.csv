@@ -1,0 +1,17 @@
+id,from_node,to_node,length,hp_type,capacity,direction,costs,losses
+0,producers-0,forks-0,20,DN-50,486.104,1,16121.04,0.182
+1,producers-1,forks-5,20,,0.0,0,0.0,0.0
+2,forks-0,forks-1,10,DN-32,74.344,1,5281.72,0.086
+3,forks-1,forks-2,20,DN-32,74.258,1,10562.58,0.172
+4,forks-2,forks-5,40,,0.0,0,0.0,0.0
+7,forks-5,forks-6,30,,0.0,0,0.0,0.0
+8,forks-6,forks-7,30,,0.0,0,0.0,0.0
+9,forks-7,forks-8,30,DN-32,53.0,-1,15525.0,0.258
+10,forks-8,forks-9,20,DN-50,201.612,-1,13276.12,0.182
+11,forks-9,forks-10,10,DN-50,201.703,-1,6638.514999999999,0.091
+12,forks-10,forks-0,30,DN-50,411.578,-1,23063.67,0.273
+14,forks-2,consumers-3,10,DN-32,74.086,1,5280.43,0.086
+17,forks-7,consumers-2,10,DN-32,53.0,1,5175.0,0.086
+18,forks-8,consumers-14,10,DN-32,150.586,1,5662.93,0.086
+19,forks-10,consumers-4,10,DN-32,109.016,1,5455.08,0.086
+20,forks-10,consumers-8,10,DN-32,100.586,1,5412.93,0.086

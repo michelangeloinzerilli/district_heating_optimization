@@ -1,0 +1,3 @@
+label_3,active,nonconvex,l_factor,l_factor_fix,cap_max,cap_min,capex_pipes,fix_costs
+DN-32,1,1,0,0.0086,200,53,0.5,491
+DN-50,1,1,0,0.0091,500,178,0.5,563
